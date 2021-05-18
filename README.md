@@ -17,7 +17,7 @@ import "4d63.com/fmt"
 ```go
 fmt.Printfln("Hello %s!", "world")
 fmt.Printfln("G'day %s!", "world")
-// Outputs
+// Output:
 // Hello world!
 // G'day world!
 ```
